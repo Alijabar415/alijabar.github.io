@@ -1,2 +1,0 @@
-# alijabar.github.io
-mywebsite
